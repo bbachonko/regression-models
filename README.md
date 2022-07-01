@@ -1,4 +1,4 @@
-# regression-models
+# Hi!
 
 The project is my interpretation of analazing the flight predic prices from EDA. I am aware there are some things to be correceted. 
 It is going tom be still updated as I am still learning new things. 
